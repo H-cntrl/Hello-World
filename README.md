@@ -1,15 +1,25 @@
 # Hello-World
+
 > **HELLO BAIS COURSE!**
+
+## TABLE OF CONTENTS
+
+- [PROJECT TITLE](#project-title)
+- [DESCRIPTION](#description )
+- [CONNECT WITH ME ON LINKEDIN](#connect-with-me-on-linkedin)
+- [FILES USED](#files-used)
+
 
 <img src="https://media1.giphy.com/media/3o7TKuyP82uEzgKBpK/giphy.gif" width="800" height="500" />
 
-# **Project Tittle**
+
+## **PROJECT TITLE**
 > BAIS Project: *Hello World assignment* 
 
-# **DESCRIPTION** 
+## **DESCRIPTION** 
 >Practicing the GitHub tools and application for better understanding of coding and web tools to create files. 
 
-# **CONNECT WITH ME ON LINKEDIN**
+## **CONNECT WITH ME ON LINKEDIN**
 Lets Network 
 
 <sub> **Click** the link below to go to my LINKEDIN page!
