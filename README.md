@@ -15,7 +15,8 @@ Lets Network
 <sub> **Click** the link below to go to my LINKEDIN page!
 
   >https://www.linkedin.com/in/hector-ortega-figueroa-6897a9208/ 
->> <img src="https://cdn.dribbble.com/users/759099/screenshots/3584436/linked_in2.gif" width="150" height="150" />
+
+  <img src="https://cdn.dribbble.com/users/759099/screenshots/3584436/linked_in2.gif" width="150" height="150" />
 
 Thanks for checking out my *README* file! 
 
